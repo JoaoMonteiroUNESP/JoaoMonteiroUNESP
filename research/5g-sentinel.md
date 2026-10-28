@@ -1,38 +1,30 @@
-# Pesquisa 5G + dados Sentinel via Google Earth Engine
+# Pesquisa 5G e dados Sentinel | FEG-UNESP
 
-> **Estudo de caso público (sem código-fonte ou dados brutos).** O repositório de desenvolvimento da plataforma científica permanece privado. Esta página apresenta apenas uma descrição técnica de alto nível.
+**Estudo de caso — apresentação pública resumida**
 
-## Problema
+Pesquisa acadêmica com apoio do **Programa Institucional de Bolsas de Iniciação Científica (PIBIC)**, envolvendo medições de redes móveis 5G, análise de dados e informações geoespaciais.
 
-A avaliação de cobertura e desempenho de redes móveis 5G envolve medições de campo, posições geográficas, variáveis ambientais e diferentes escalas espaciais. Combinar essas fontes requer atenção à origem dos dados e à validação dos modelos.
+## Competências aplicadas
 
-## Minha contribuição
+- **Python** para coleta, integração e processamento de dados.
+- **API Python do Google Earth Engine** para acessar informações dos satélites **Sentinel**, do programa europeu **Copernicus**.
+- Métodos de **análise estatística, machine learning, validação e reprodutibilidade** de estudos científicos.
+- Trabalho na interface entre pesquisa de campo, engenharia de dados e avaliação de resultados.
 
-- Integrei **dados geoespaciais dos satélites Sentinel**, do programa europeu Copernicus, a medições de redes 5G usando **Python e a API Python do Google Earth Engine (GEE)**.
-- Desenvolvi fluxos de preparação, conferência e análise de dados para experimentação com **machine learning**.
-- Trabalhei com rastreabilidade de arquivos, tratamento explícito de ausências e **validação agrupada por campanha**, para reduzir o risco de vazamento de informação entre treino e teste.
-- Apliquei técnicas de regressão, classificação e agrupamento à análise dos dados coletados.
+## Confidencialidade e propriedade intelectual
 
-## Tecnologias e competências
+A pesquisa está em avaliação para possível **proteção de propriedade intelectual, inclusive eventual pedido de patente**. Para resguardar o trabalho desenvolvido no contexto do **PIBIC/FEG-UNESP**, **o repositório de desenvolvimento, o código-fonte, as bases de dados e os detalhes técnicos sensíveis permanecem privados**.
 
-`Python` · `Google Earth Engine API` · `Sentinel / Copernicus` · `pandas` · `scikit-learn` · `XGBoost` · `geospatial data` · `data validation`
+Esta página apresenta somente competências e informações gerais do projeto, sem divulgar a implementação científica.
 
-## O que esta experiência comprova
-
-Integração programática com uma **API externa de dados**, tratamento de dados heterogêneos, definição de pipelines reprodutíveis e avaliação criteriosa de modelos.
-
-**Importante:** Google Earth Engine é uma API para dados geoespaciais, **não** uma API de modelos generativos (LLMs). Este projeto não deve ser descrito como implantação de agentes de IA ou RAG.
-
-## Disponibilidade
-
-O código-fonte e as bases de trabalho não estão publicados nesta página. Não há links para arquivos de acesso restrito.
+Para informações acadêmicas ou colaborações, entre em contato pelo [perfil profissional](https://github.com/JoaoMonteiroUNESP).
 
 ---
 
-# 5G research + Sentinel data through Google Earth Engine
+# 5G & Sentinel research | FEG-UNESP
 
-> **Public technical case study (no source code or raw data).** The scientific platform's development repository remains private.
+**Public high-level research overview**
 
-I integrated **Copernicus Sentinel geospatial data** with 5G field measurements through the **Google Earth Engine Python API**. The work involved data preparation, traceability, explicit handling of missing data, and campaign-grouped validation in machine-learning experiments.
+PIBIC-supported academic work combining **5G field measurements**, geospatial information and data analysis. My contributions include **Python-based data integration**, use of the **Google Earth Engine Python API** to access **Copernicus Sentinel** data, and machine-learning research workflows.
 
-This demonstrates **external API integration and reproducible data workflows**; it is **not** an LLM API integration or a generative-AI agent project.
+**Intellectual property:** Potential protection of the research, including a possible patent application, is under evaluation. The **source code, datasets and sensitive implementation details remain private** to protect the research and the interests of the involved parties.
