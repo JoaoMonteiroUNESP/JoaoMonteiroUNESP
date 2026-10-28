@@ -9,8 +9,8 @@ Utilizo **ChatGPT, Claude e Gemini** em pesquisa, desenvolvimento assistido, doc
 ## Experiência e impacto
 
 - **BASF | Estágio em Desenvolvimento (2026, encerrado em outubro):** automações, aplicações internas, indicadores e análise de dados para melhoria de processos.
-- **Automação de relatórios — avaliação com 43 relatórios:** tempo médio de **36,49 para 1,50 min por relatório** (**−95,89%**). Isso corresponde a aproximadamente **25 h 05 min economizadas no lote**, estimadas pelas médias observadas; não representa medição de economia recorrente ou implantação em escala.
-- **Pesquisa 5G | FEG-UNESP (2025–2026):** pipelines e modelagem de dados com **Python + API do Google Earth Engine**, integrando informações **Sentinel/Copernicus** a medições de campo. [Ver estudo de caso público](https://github.com/JoaoMonteiroUNESP/JoaoMonteiroUNESP/blob/main/research/5g-sentinel.md).
+- **Automação de relatórios — avaliação com 43 relatórios:** tempo médio de **36,49 para 1,50 min por relatório** (**−95,89%**). Economia estimada de **25 h 05 min no lote avaliado**, calculada a partir dos tempos médios.
+- **Pesquisa 5G | FEG-UNESP (2025–2026):** pesquisa com apoio do **PIBIC**, usando **Python + API do Google Earth Engine** para integrar dados **Sentinel/Copernicus** a medições de campo. Código e bases preservados em repositório privado enquanto é avaliada a proteção da propriedade intelectual, incluindo eventual patente. [Visão geral do estudo](https://github.com/JoaoMonteiroUNESP/JoaoMonteiroUNESP/blob/main/research/5g-sentinel.md).
 
 ## Projetos selecionados
 
@@ -20,13 +20,13 @@ Utilizo **ChatGPT, Claude e Gemini** em pesquisa, desenvolvimento assistido, doc
 | [Análise Financeira — dashboard ao vivo](https://github.com/JoaoMonteiroUNESP/financial-analysis-dashboard) | Aplicação publicada, auditoria de fontes, validação automática e indicadores | Python · Streamlit · pandas · Plotly |
 | [Monitor do Condutor](https://github.com/JoaoMonteiroUNESP/monitor-do-condutor) | Protótipo acadêmico de visão computacional com decisões interpretáveis | Python · OpenCV · MediaPipe · YOLO |
 | [Plataforma para autor — projeto web publicado](https://github.com/JoaoMonteiroUNESP/nos-labirintos-do-eu) | Produto web do planejamento à publicação | Next.js · React · TypeScript |
-| [Pesquisa 5G + Sentinel (estudo de caso)](https://github.com/JoaoMonteiroUNESP/JoaoMonteiroUNESP/blob/main/research/5g-sentinel.md) | Integração de API de dados e validação de ML; código de pesquisa privado | Python · Google Earth Engine · ML |
+| [Pesquisa 5G + Sentinel (estudo de caso)](https://github.com/JoaoMonteiroUNESP/JoaoMonteiroUNESP/blob/main/research/5g-sentinel.md) | Integração de dados geoespaciais e ML; pesquisa sob avaliação de proteção intelectual | Python · Google Earth Engine · ML |
 
 ## IA no meu fluxo de trabalho
 
 - Desenvolvimento assistido com ChatGPT e Claude para prototipação, depuração, testes e documentação, com **verificação própria antes de versionar**.
-- Utilização recorrente de recursos do ChatGPT para acompanhamento de oportunidades profissionais e organização de atividades. São **fluxos configurados em uma ferramenta de IA**, não agentes ou integrações de LLMs desenvolvidos por mim.
-- **Não reivindico** experiência com n8n, orquestração de agentes próprios ou APIs de LLMs sem um projeto verificável.
+- Uso de recursos de **automação e tarefas recorrentes do ChatGPT** para acompanhar oportunidades profissionais, priorizar atividades e organizar a rotina.
+- Uso de **GitHub Copilot no ambiente corporativo** para apoiar o desenvolvimento e a evolução de aplicações internas.
 
 ## Ferramentas
 
@@ -46,4 +46,6 @@ Utilizo **ChatGPT, Claude e Gemini** em pesquisa, desenvolvimento assistido, doc
 
 **Selected outcome:** In a 43-report automation assessment, mean processing time dropped from **36.49 to 1.50 minutes** (a **95.89% reduction**), equivalent to approximately **25 hours saved for that evaluated batch**, based on mean times.
 
-See my [portfolio](https://joaomonteirounesp.github.io/portfolio/) and the [public 5G + Sentinel case study](https://github.com/JoaoMonteiroUNESP/JoaoMonteiroUNESP/blob/main/research/5g-sentinel.md).
+**Research confidentiality:** My PIBIC-supported 5G research remains in a private repository while potential intellectual-property protection, including a patent application, is being evaluated.
+
+See my [portfolio](https://joaomonteirounesp.github.io/portfolio/) and the [5G + Sentinel research overview](https://github.com/JoaoMonteiroUNESP/JoaoMonteiroUNESP/blob/main/research/5g-sentinel.md).
